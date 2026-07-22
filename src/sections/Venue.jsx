@@ -6,7 +6,7 @@ import { events } from '../utils/weddingData.js'
 
 export default function Venue() {
   return (
-    <section id="venue" className="relative bg-beige py-24 sm:py-32 px-6">
+    <section id="venue" className="relative bg-gold/8 py-24 sm:py-32 px-6">
       <div className="max-w-5xl mx-auto">
         <SectionHeading
           eyebrow="Find Us"

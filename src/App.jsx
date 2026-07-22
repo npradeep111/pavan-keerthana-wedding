@@ -7,7 +7,7 @@ import { useLockBodyScroll } from './hooks/useLockBodyScroll.js'
 import Hero from './sections/Hero.jsx'
 import SaveTheDate from './sections/SaveTheDate.jsx'
 import OurStory from './sections/OurStory.jsx'
-import Gallery from './sections/Gallery.jsx'
+//import Gallery from './sections/Gallery.jsx'
 import Venue from './sections/Venue.jsx'
 import Blessings from './sections/Blessings.jsx'
 import Footer from './sections/Footer.jsx'
@@ -34,7 +34,7 @@ export default function App() {
         <Hero />
         <SaveTheDate />
         <OurStory />
-        <Gallery />
+        {/*<Gallery /> */}
         <Venue />
         <Blessings />
         <Footer />
