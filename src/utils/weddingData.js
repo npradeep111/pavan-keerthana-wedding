@@ -14,7 +14,7 @@ export const events = [
     name: 'Wedding Ceremony',
     date: 'Sunday, August 23, 2026',
     isoDate: '2026-08-23T11:23:00',
-    time: 'Muhurtham at 11:23 AM',
+    time: 'At 11:23 AM',
     venue: 'Saint Louis Hindu Temple',
     mapsUrl: 'https://maps.app.goo.gl/hFyZJmE4QiTpNtpL9',
     description:
@@ -30,7 +30,7 @@ export const timeline = [
     id: 'wedding',
     title: 'Wedding Ceremony',
     date: 'Aug 23, 2026',
-    time: '11:23 AM Muhurtham',
+    time: '11:23 AM',
     venue: 'Saint Louis Hindu Temple',
   },
 ]
